@@ -2,6 +2,9 @@
 
 Costruzione di un sistema per gestire una rete di sensori per misurare svariati parametri del suolo come umidità temperatura conducibilità elettrica ecc...
 
+<img src="img/schema.png" width=30% height=30%>
+
+
 ## Visualizzazione e accesso ai dati
 Tutte le misurazioni effettuate dai sensori sono caricate e visualizzabili sul sito:
 www.iotprojects.it
