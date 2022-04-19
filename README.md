@@ -11,8 +11,8 @@ Accedendo con le credenziali:
  - Password: soilDemo2
 
 ## Nodo
-<img src="img/img1.jpg" width=40% height=40%>
+<img src="img/img1.jpeg" width=40% height=40%>
 
 ## Gateway
-<img src="img/img2.jpg" width=40% height=40%>
+<img src="img/img2.jpeg" width=40% height=40%>
 
