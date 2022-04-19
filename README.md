@@ -2,7 +2,7 @@
 
 Costruzione di un sistema per gestire una rete di sensori per misurare svariati parametri del suolo come umidità temperatura conducibilità elettrica ecc...
 
-<img src="img/schema.png" width=30% height=30%>
+<img src="img/schema.png" width=70% height=70%>
 
 
 ## Visualizzazione e accesso ai dati
