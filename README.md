@@ -7,7 +7,7 @@ Costruzione di un sistema per gestire una rete di sensori per misurare svariati 
 
 ## Visualizzazione e accesso ai dati
 Tutte le misurazioni effettuate dai sensori sono caricate e visualizzabili sul sito:
-soiltrack.iotprojects.it
+http://soiltrack.iotprojects.it
 
 Accedendo con le credenziali: 
  - User: demo2
